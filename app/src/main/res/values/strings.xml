@@ -1,0 +1,26 @@
+<resources>
+    <!--string에서는 간단한 텍스트를 저장한다.-->
+    <!--app의 정보 텍스트-->
+    <string name="app_name">my_first_project</string>
+    <string name="app_label">my_first_project</string>
+    <!--검색에 사용되는 텍스트-->
+    <string name="search_hint">어떤 습관을 가지고 싶으신가요?</string>
+
+    <!--bottom_navigation_bar_strings-->
+    <string name="bottom_explore">탐색</string>
+    <string name="bottom_open">개설</string>
+    <string name="bottom_home">홈</string>
+    <string name="bottom_ranking">랭킹</string>
+    <string name="bottom_my_profile">마이페이지</string>
+
+
+    <!--    tab_bar_menu-->
+    <string name="tab_home">홈</string>
+    <string name="tab_popular">인기</string>
+    <string name="tab_recent">신규</string>
+    <string name="tab_recommend">추천</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
